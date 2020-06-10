@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jollytechnologies.jollyphonics.adventure"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:3:2-18:16
+12        android:name="android.support.multidex.MultiDexApplication"
+13        android:allowBackup="true"
+13-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:5:3-29
+14        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+14-->[com.android.support:support-compat:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/98a1a0e575d8bbd9dbd6da74315851df/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+15        android:debuggable="true"
+16        android:icon="@mipmap/icon"
+16-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:7:3-30
+17        android:label="unnamed"
+17-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:6:3-26
+18        android:roundIcon="@android:drawable/sym_def_app_icon"
+18-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:8:3-57
+19        android:supportsRtl="true"
+19-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:10:3-29
+20        android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+20-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:9:3-67
+21        <activity android:name="com.jollytechnologies.jollyphonics.adventure.MainActivity" >
+21-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:12:3-17:14
+21-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:12:13-41
+22            <intent-filter>
+22-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:13:4-16:20
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:14:5-56
+23-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:14:13-54
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:15:5-64
+25-->/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:15:15-62
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

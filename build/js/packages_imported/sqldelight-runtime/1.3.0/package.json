@@ -1,0 +1,10 @@
+{
+  "main": "sqldelight-runtime.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "sqldelight-runtime",
+  "version": "1.3.0"
+}

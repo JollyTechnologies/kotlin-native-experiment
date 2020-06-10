@@ -1,0 +1,41 @@
+{
+  "main": "kotlin/Jolly Phonics Adventure-test.js",
+  "devDependencies": {
+    "karma": "4.4.1",
+    "karma-mocha": "1.3.0",
+    "mocha": "6.2.2",
+    "karma-webpack": "4.0.2",
+    "webpack": "4.41.2",
+    "webpack-cli": "3.3.10",
+    "karma-sourcemap-loader": "0.3.7",
+    "karma-chrome-launcher": "3.1.0"
+  },
+  "dependencies": {
+    "Jolly Phonics Adventure": "4.10.1",
+    "korge-root-korge": "1.12.14",
+    "korgw-root-korgw": "1.12.10",
+    "korim-root-korim": "1.12.19",
+    "korio-root-korio": "1.11.5",
+    "klock-root-klock": "1.11.3",
+    "kotlin": "1.3.72",
+    "kmem-root-kmem": "1.10.5",
+    "kds-root-kds": "1.10.12",
+    "kotlinx-coroutines-core": "1.3.7",
+    "korma-root-korma": "1.11.15",
+    "korau-root-korau": "1.11.8",
+    "krypto-root-krypto": "1.11.1",
+    "korinject-root-korinject": "1.10.1",
+    "klogger-root-klogger": "1.10.1",
+    "korge-root-korge-box2d": "1.12.14",
+    "kbox2d-root-kbox2d": "0.6.1",
+    "kotlinx-serialization-kotlinx-serialization-runtime": "0.20.0",
+    "kotlin-test": "1.3.72",
+    "kotlin-test-js-runner": "1.3.72",
+    "kotlin-source-map-loader": "1.3.72"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "Jolly Phonics Adventure-test",
+  "version": "4.10.1"
+}

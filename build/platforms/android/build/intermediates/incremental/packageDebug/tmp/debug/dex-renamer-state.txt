@@ -1,0 +1,7 @@
+#Wed Jun 10 13:34:44 CEST 2020
+base.1=/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/build/intermediates/dex/debug/out/classes2.dex
+path.1=classes2.dex
+base.0=/Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/build/intermediates/dex/debug/out/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

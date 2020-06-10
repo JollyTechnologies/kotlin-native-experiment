@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/2858b43413ebd71f2deb08088be48c1a/multidex-1.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.soywiz.korlibs.korge:korge-box2d-android:1.12.14] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/b6c1ab562e11fe95e5f3d6ccd8ae9664/korge-box2d-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.korge:korge-android:1.12.14] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/e3e9fd7244cba64ae104d268ca2e2652/korge-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.korgw:korgw-android:1.12.10] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/2e7dd0d7b2bcf4f61402a095d7619f27/korgw-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.korim:korim-android:1.12.19] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/213a9f5c04ef3c5761756a095e61b178/korim-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.korau:korau-android:1.11.8] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/f72630388e08eefbe9e66a1deb59a97c/korau-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.korio:korio-android:1.11.5] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/14ac976201fc62d8a3c82a0d55dd6fe7/korio-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.klock:klock-android:1.11.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/368f780c11b230a8176cc20702868338/klock-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.kmem:kmem-android:1.10.5] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/da47cddc135687fb2ddfb1ceb7f96cf8/kmem-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.korma:korma-android:1.11.15] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/225ca772fe0065733d2d3673321068df/korma-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.kds:kds-android:1.10.12] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/0bc0b9f6b6107657cc17d75271a6f521/kds-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:1.11.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/fc3ce368457250f404812eaefb7c8b42/krypto-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.korinject:korinject-android:1.10.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/d43daac8bc3d4a16bbca99269a617037/korinject-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.klogger:klogger-android:1.10.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/33873feb99850c5e5bf53bfcbfdd9e66/klogger-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.soywiz.korlibs.kbox2d:kbox2d-android:0.6.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/6febfc6ff821ba21bd6642ae029b0c42/kbox2d-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9cda71f2f15578c03247ed398153121b/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9faa55c4d7480c4daab2cd6c3e1ae671/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/a667d236191615734535160f917a362d/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/1fd1e8aa43d0afec781313c0515b5362/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/c44473cc806a4ad4d1d35d6ebbfcdd21/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/be5be77ccde5cecd626f483c66b8b6e5/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/119477bda5677fddc9e968f4ccfa6d88/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/7ee3f8e949abb1dff559ffb32657555a/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/ccfcfc46080fae74bba58b00f0b5d915/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/f835c829d50137f06b50acc0d68ed784/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9075e4155ce05d7bef6da55dc14d88a5/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/3275ee5fda158867318da0a9acf951d8/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/ed4ca18bbaa1f247f2af2f801fc85633/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/c1f9e6b31548672ac6744e56732501e5/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/7a61ab62c45adeb346159f4719913524/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/98a1a0e575d8bbd9dbd6da74315851df/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/5a682039b4c7618d21ce634c8149592f/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/4e8fbd70c532a1ef2c3e2027c7356d27/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/8ede011ec3a91cf31658f6891ec2d78a/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/d509defee1898ef3e318c47358fb6423/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/6a20c58396e37d35d8d2a82032bcedd0/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/8c367f8c03538d03ffcc543886a92a76/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/6a9eb46e12778f0d13ab36e52171542c/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/2de5a8ce71b7f2c2ae369c3b394867ef/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/7f3e81e3ad70cb946f8f8483533afced/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/373bdd78b037e334f665771695c2112f/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/5507167c02f6f61458efc6a8eb73287c/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:70-124
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:3:2-18:16
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9faa55c4d7480c4daab2cd6c3e1ae671/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9faa55c4d7480c4daab2cd6c3e1ae671/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/98a1a0e575d8bbd9dbd6da74315851df/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/98a1a0e575d8bbd9dbd6da74315851df/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/5a682039b4c7618d21ce634c8149592f/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/5a682039b4c7618d21ce634c8149592f/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/98a1a0e575d8bbd9dbd6da74315851df/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:10:3-29
+	android:label
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:6:3-26
+	android:roundIcon
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:8:3-57
+	android:icon
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:7:3-30
+	android:allowBackup
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:5:3-29
+	android:theme
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:9:3-67
+activity#com.jollytechnologies.jollyphonics.adventure.MainActivity
+ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:12:3-17:14
+	android:name
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:13:4-16:20
+action#android.intent.action.MAIN
+ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:14:5-56
+	android:name
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:14:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:15:5-64
+	android:name
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml:15:15-62
+uses-sdk
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/2858b43413ebd71f2deb08088be48c1a/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/2858b43413ebd71f2deb08088be48c1a/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.soywiz.korlibs.korge:korge-box2d-android:1.12.14] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/b6c1ab562e11fe95e5f3d6ccd8ae9664/korge-box2d-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korge:korge-box2d-android:1.12.14] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/b6c1ab562e11fe95e5f3d6ccd8ae9664/korge-box2d-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korge:korge-android:1.12.14] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/e3e9fd7244cba64ae104d268ca2e2652/korge-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korge:korge-android:1.12.14] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/e3e9fd7244cba64ae104d268ca2e2652/korge-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korgw:korgw-android:1.12.10] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/2e7dd0d7b2bcf4f61402a095d7619f27/korgw-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korgw:korgw-android:1.12.10] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/2e7dd0d7b2bcf4f61402a095d7619f27/korgw-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korim:korim-android:1.12.19] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/213a9f5c04ef3c5761756a095e61b178/korim-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korim:korim-android:1.12.19] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/213a9f5c04ef3c5761756a095e61b178/korim-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korau:korau-android:1.11.8] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/f72630388e08eefbe9e66a1deb59a97c/korau-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korau:korau-android:1.11.8] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/f72630388e08eefbe9e66a1deb59a97c/korau-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korio:korio-android:1.11.5] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/14ac976201fc62d8a3c82a0d55dd6fe7/korio-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korio:korio-android:1.11.5] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/14ac976201fc62d8a3c82a0d55dd6fe7/korio-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.klock:klock-android:1.11.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/368f780c11b230a8176cc20702868338/klock-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.klock:klock-android:1.11.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/368f780c11b230a8176cc20702868338/klock-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.kmem:kmem-android:1.10.5] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/da47cddc135687fb2ddfb1ceb7f96cf8/kmem-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.kmem:kmem-android:1.10.5] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/da47cddc135687fb2ddfb1ceb7f96cf8/kmem-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korma:korma-android:1.11.15] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/225ca772fe0065733d2d3673321068df/korma-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korma:korma-android:1.11.15] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/225ca772fe0065733d2d3673321068df/korma-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.kds:kds-android:1.10.12] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/0bc0b9f6b6107657cc17d75271a6f521/kds-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.kds:kds-android:1.10.12] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/0bc0b9f6b6107657cc17d75271a6f521/kds-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:1.11.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/fc3ce368457250f404812eaefb7c8b42/krypto-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:1.11.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/fc3ce368457250f404812eaefb7c8b42/krypto-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korinject:korinject-android:1.10.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/d43daac8bc3d4a16bbca99269a617037/korinject-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.korinject:korinject-android:1.10.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/d43daac8bc3d4a16bbca99269a617037/korinject-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.klogger:klogger-android:1.10.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/33873feb99850c5e5bf53bfcbfdd9e66/klogger-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.klogger:klogger-android:1.10.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/33873feb99850c5e5bf53bfcbfdd9e66/klogger-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.kbox2d:kbox2d-android:0.6.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/6febfc6ff821ba21bd6642ae029b0c42/kbox2d-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.kbox2d:kbox2d-android:0.6.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/6febfc6ff821ba21bd6642ae029b0c42/kbox2d-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9cda71f2f15578c03247ed398153121b/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9cda71f2f15578c03247ed398153121b/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9faa55c4d7480c4daab2cd6c3e1ae671/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9faa55c4d7480c4daab2cd6c3e1ae671/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/a667d236191615734535160f917a362d/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/a667d236191615734535160f917a362d/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/1fd1e8aa43d0afec781313c0515b5362/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/1fd1e8aa43d0afec781313c0515b5362/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/c44473cc806a4ad4d1d35d6ebbfcdd21/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/c44473cc806a4ad4d1d35d6ebbfcdd21/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/be5be77ccde5cecd626f483c66b8b6e5/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/be5be77ccde5cecd626f483c66b8b6e5/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/119477bda5677fddc9e968f4ccfa6d88/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/119477bda5677fddc9e968f4ccfa6d88/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/7ee3f8e949abb1dff559ffb32657555a/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/7ee3f8e949abb1dff559ffb32657555a/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/ccfcfc46080fae74bba58b00f0b5d915/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/ccfcfc46080fae74bba58b00f0b5d915/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/f835c829d50137f06b50acc0d68ed784/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/f835c829d50137f06b50acc0d68ed784/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9075e4155ce05d7bef6da55dc14d88a5/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/9075e4155ce05d7bef6da55dc14d88a5/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/3275ee5fda158867318da0a9acf951d8/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/3275ee5fda158867318da0a9acf951d8/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/ed4ca18bbaa1f247f2af2f801fc85633/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/ed4ca18bbaa1f247f2af2f801fc85633/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/c1f9e6b31548672ac6744e56732501e5/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/c1f9e6b31548672ac6744e56732501e5/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/7a61ab62c45adeb346159f4719913524/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/7a61ab62c45adeb346159f4719913524/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/98a1a0e575d8bbd9dbd6da74315851df/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/98a1a0e575d8bbd9dbd6da74315851df/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/5a682039b4c7618d21ce634c8149592f/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/5a682039b4c7618d21ce634c8149592f/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/4e8fbd70c532a1ef2c3e2027c7356d27/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/4e8fbd70c532a1ef2c3e2027c7356d27/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/8ede011ec3a91cf31658f6891ec2d78a/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/8ede011ec3a91cf31658f6891ec2d78a/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/d509defee1898ef3e318c47358fb6423/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/d509defee1898ef3e318c47358fb6423/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/6a20c58396e37d35d8d2a82032bcedd0/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/6a20c58396e37d35d8d2a82032bcedd0/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/8c367f8c03538d03ffcc543886a92a76/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/8c367f8c03538d03ffcc543886a92a76/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/6a9eb46e12778f0d13ab36e52171542c/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/6a9eb46e12778f0d13ab36e52171542c/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/2de5a8ce71b7f2c2ae369c3b394867ef/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/2de5a8ce71b7f2c2ae369c3b394867ef/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/7f3e81e3ad70cb946f8f8483533afced/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/7f3e81e3ad70cb946f8f8483533afced/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/373bdd78b037e334f665771695c2112f/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/373bdd78b037e334f665771695c2112f/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/5507167c02f6f61458efc6a8eb73287c/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gilbertjolly/.gradle/caches/transforms-2/files-2.1/5507167c02f6f61458efc6a8eb73287c/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+		ADDED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/gilbertjolly/Repos/Jolly Phonics Adventure/build/platforms/android/src/main/AndroidManifest.xml
